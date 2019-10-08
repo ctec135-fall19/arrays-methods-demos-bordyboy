@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iteratians", "Iteratians\It
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionConstructs", "DecisionConstructs\DecisionConstructs.csproj", "{49E15A4F-3DF7-4C36-A885-019AE500DC56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{5E7343B9-D261-4E30-9300-099B19195290}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{49E15A4F-3DF7-4C36-A885-019AE500DC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49E15A4F-3DF7-4C36-A885-019AE500DC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49E15A4F-3DF7-4C36-A885-019AE500DC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7343B9-D261-4E30-9300-099B19195290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7343B9-D261-4E30-9300-099B19195290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7343B9-D261-4E30-9300-099B19195290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7343B9-D261-4E30-9300-099B19195290}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
